@@ -15,5 +15,6 @@
 
 // console.log(result)
 
-let fun = undefined;
-console.log(fun);
+// fun = undefined;
+//console.log(fun);
+
